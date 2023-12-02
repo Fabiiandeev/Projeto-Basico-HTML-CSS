@@ -1,0 +1,44 @@
+body{
+    background-image: url('background.jpg');
+    background-position: center;
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: Stencil Std, fantasy;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+h3{
+    color: #f1c40f;
+    ;
+}
+
+li{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: ;
+    font-size: 20px
+  ;
+}
+
+h2{
+    background-color: #f1c40f;
+    border: 2px solid;
+    ;
+}
+
+#corselecionada-class{
+    color: #e74c3c;
+}
+
+td{
+    color: white;
+ }
+
+    
+      
+ 
